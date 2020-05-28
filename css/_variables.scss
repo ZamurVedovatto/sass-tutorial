@@ -1,0 +1,10 @@
+/////////////////// VARIABLES
+$colors: (
+    primary: #005DFF,
+    primary-light: lighten(#005DFF, 40%), // sass function lighten
+    primary-dark: darken(#005DFF, 40%), // sass function darken
+    accent: #FFF6BB
+);
+$padding: 15px; 
+$borders: 15px;
+$desktop: 840px;
